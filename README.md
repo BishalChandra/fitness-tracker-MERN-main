@@ -20,7 +20,6 @@ Project is created with:
 - Express.js
 - React.js
 - Node.js
-- JWT Authentication
 
 ## Installation
 
@@ -67,10 +66,3 @@ npm run develop
   ![Screenshot](./client/src/assets/screenshots/8.png)
 
 
-
-## Questions?
-
-Please feel free to contact me if you need any further information:
-
-- [Email](wwtian9@gmail.com)
-- [Github Profile](https://github.com/joce1ynn)
